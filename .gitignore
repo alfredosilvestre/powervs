@@ -1,0 +1,8 @@
+debug/
+release/
+Makefile*
+ui_*
+*.pdb
+*.pro.user
+.qmake.stash
+powervs-core/

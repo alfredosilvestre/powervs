@@ -1,0 +1,28 @@
+#include <windows.h>
+
+IDI_ICON1	ICON	DISCARDABLE	"images/icon.ico"
+
+VS_VERSION_INFO VERSIONINFO
+FILEVERSION     1,0,0,0
+PRODUCTVERSION  1,0,0,0
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904E4"
+        BEGIN
+            VALUE "CompanyName",        "Alfredo Silvestre"
+            VALUE "FileDescription",    "PowerVS"
+            VALUE "FileVersion",        "1.0.0.0\0"
+            VALUE "InternalName",       "PowerVS"
+            VALUE "LegalCopyright",     "Copyright © 2021"
+            VALUE "OriginalFilename",   "PowerVS.exe"
+            VALUE "ProductName",        "PowerVS"
+            VALUE "ProductVersion",     "1.0\0"
+        END
+    END
+
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 1252
+    END
+END

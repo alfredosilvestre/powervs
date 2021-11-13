@@ -1,0 +1,1197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="350"
+   height="250"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="buttons.svg">
+  <defs
+     id="defs4">
+    <clipPath
+       id="clipPath4475"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         y="1961.6021"
+         x="258.8501"
+         height="20.75"
+         width="45.75"
+         id="rect4477"
+         style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none" />
+    </clipPath>
+    <linearGradient
+       y2="847.9082"
+       x2="151.75447"
+       y1="814.69196"
+       x1="151.75447"
+       gradientTransform="translate(91.777811,1124.973)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4405"
+       xlink:href="#linearGradient4857"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="423.54349"
+       x2="122.47333"
+       y1="473.47906"
+       x1="122.47333"
+       gradientTransform="matrix(1.3333335,0,0,1,75.952011,1515.7606)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4403"
+       xlink:href="#linearGradient4790"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="847.9082"
+       x2="151.75447"
+       y1="814.69196"
+       x1="151.75447"
+       gradientTransform="translate(391.29656,1239.7545)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4378"
+       xlink:href="#linearGradient4857"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="423.54349"
+       x2="122.47333"
+       y1="473.47906"
+       x1="122.47333"
+       gradientTransform="matrix(1.3333335,0,0,1,375.47076,1630.5421)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4376"
+       xlink:href="#linearGradient4790"
+       inkscape:collect="always" />
+    <clipPath
+       id="clipPath4348"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="0"
+         rx="0"
+         y="-191.09221"
+         x="2019.5774"
+         height="31.261671"
+         width="228.28427"
+         id="rect4350"
+         style="opacity:0.6547085;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    </clipPath>
+    <linearGradient
+       y2="423.54349"
+       x2="122.47333"
+       y1="473.47906"
+       x1="122.47333"
+       gradientTransform="matrix(1.3333335,0,0,1,77.0718,1351.8541)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient6832"
+       xlink:href="#linearGradient4790"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="847.9082"
+       x2="151.75447"
+       y1="814.69196"
+       x1="151.75447"
+       gradientTransform="translate(92.8976,961.06645)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient6829"
+       xlink:href="#linearGradient4857"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="423.54349"
+       x2="122.47333"
+       y1="473.47906"
+       x1="122.47333"
+       gradientTransform="matrix(1.3333335,0,0,1,377.1795,1426.6651)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient6819"
+       xlink:href="#linearGradient4790"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="847.9082"
+       x2="151.75447"
+       y1="814.69196"
+       x1="151.75447"
+       gradientTransform="translate(393.0053,1035.8775)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient6816"
+       xlink:href="#linearGradient4857"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="847.9082"
+       x2="151.75447"
+       y1="814.69196"
+       x1="151.75447"
+       gradientTransform="translate(92.8975,523.45959)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient6780"
+       xlink:href="#linearGradient4857"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="847.9082"
+       x2="151.75447"
+       y1="814.69196"
+       x1="151.75447"
+       gradientTransform="translate(2130.3952,1198.3196)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient5141"
+       xlink:href="#linearGradient4857"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="423.54349"
+       x2="122.47333"
+       y1="473.47906"
+       x1="122.47333"
+       gradientTransform="matrix(1.3333335,0,0,1,2114.5694,1589.1072)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient5139"
+       xlink:href="#linearGradient4790"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="847.9082"
+       x2="151.75447"
+       y1="814.69196"
+       x1="151.75447"
+       gradientTransform="translate(2129.5768,1091.9395)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient5137"
+       xlink:href="#linearGradient4857"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="423.54349"
+       x2="122.47333"
+       y1="473.47906"
+       x1="122.47333"
+       gradientTransform="matrix(1.3333335,0,0,1,2113.751,1482.7271)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient5135"
+       xlink:href="#linearGradient4790"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="228.51093"
+       x2="384.03928"
+       y1="95.533539"
+       x1="384.03928"
+       id="linearGradient4782"
+       xlink:href="#linearGradient4768"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="89.318695"
+       x2="363.39642"
+       y1="231.96211"
+       x1="363.39642"
+       id="linearGradient4774"
+       xlink:href="#linearGradient4768"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient4768">
+      <stop
+         id="stop4770"
+         offset="0"
+         style="stop-color:#00afff;stop-opacity:1;" />
+      <stop
+         id="stop4772"
+         offset="1"
+         style="stop-color:#0064ff;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4790">
+      <stop
+         id="stop4792"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+      <stop
+         id="stop4794"
+         offset="1"
+         style="stop-color:#cacaca;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4857"
+       inkscape:collect="always">
+      <stop
+         id="stop4859"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop4861"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4857-0"
+       id="linearGradient3648-4"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.53163421,0,0,1,251.40133,-683.3552)"
+       x1="151.75447"
+       y1="814.69196"
+       x2="151.75447"
+       y2="847.9082" />
+    <linearGradient
+       id="linearGradient4857-0"
+       inkscape:collect="always">
+      <stop
+         id="stop4859-9"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop4861-4"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0;" />
+    </linearGradient>
+    <inkscape:perspective
+       id="perspective3833"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       id="linearGradient15728">
+      <stop
+         style="stop-color:#000097;stop-opacity:1;"
+         offset="0"
+         id="stop15730" />
+      <stop
+         style="stop-color:#6efff9;stop-opacity:1;"
+         offset="1"
+         id="stop15732" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient8026">
+      <stop
+         id="stop8028"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop8030"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0;" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3149">
+      <rect
+         style="fill:#dcdcdc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect3151"
+         width="61"
+         height="20.5"
+         x="77.669281"
+         y="939.76917"
+         rx="8.4330797"
+         ry="0"
+         transform="scale(1,-1)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3149-4">
+      <rect
+         style="fill:#dcdcdc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect3151-0"
+         width="61"
+         height="20.5"
+         x="77.669281"
+         y="939.76917"
+         rx="8.4330797"
+         ry="0"
+         transform="scale(1,-1)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3149-4-3">
+      <rect
+         style="fill:#dcdcdc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect3151-0-2"
+         width="61"
+         height="20.5"
+         x="77.669281"
+         y="939.76917"
+         rx="8.4330797"
+         ry="0"
+         transform="scale(1,-1)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3149-4-3-8">
+      <rect
+         style="fill:#dcdcdc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect3151-0-2-5"
+         width="61"
+         height="20.5"
+         x="77.669281"
+         y="939.76917"
+         rx="8.4330797"
+         ry="0"
+         transform="scale(1,-1)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3149-4-3-89">
+      <rect
+         style="fill:#dcdcdc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect3151-0-2-2"
+         width="61"
+         height="20.5"
+         x="77.669281"
+         y="939.76917"
+         rx="8.4330797"
+         ry="0"
+         transform="scale(1,-1)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3149-4-3-3">
+      <rect
+         style="fill:#dcdcdc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect3151-0-2-1"
+         width="61"
+         height="20.5"
+         x="77.669281"
+         y="939.76917"
+         rx="8.4330797"
+         ry="0"
+         transform="scale(1,-1)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3149-4-3-4">
+      <rect
+         style="fill:#dcdcdc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect3151-0-2-11"
+         width="61"
+         height="20.5"
+         x="77.669281"
+         y="939.76917"
+         rx="8.4330797"
+         ry="0"
+         transform="scale(1,-1)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3149-4-3-42">
+      <rect
+         style="fill:#dcdcdc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect3151-0-2-7"
+         width="61"
+         height="20.5"
+         x="77.669281"
+         y="939.76917"
+         rx="8.4330797"
+         ry="0"
+         transform="scale(1,-1)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3149-4-3-8-8">
+      <rect
+         style="fill:#dcdcdc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect3151-0-2-5-6"
+         width="61"
+         height="20.5"
+         x="77.669281"
+         y="939.76917"
+         rx="8.4330797"
+         ry="0"
+         transform="scale(1,-1)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3149-4-3-42-5">
+      <rect
+         style="fill:#dcdcdc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect3151-0-2-7-0"
+         width="61"
+         height="20.5"
+         x="77.669281"
+         y="939.76917"
+         rx="8.4330797"
+         ry="0"
+         transform="scale(1,-1)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3149-4-3-4-2">
+      <rect
+         style="fill:#dcdcdc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect3151-0-2-11-8"
+         width="61"
+         height="20.5"
+         x="77.669281"
+         y="939.76917"
+         rx="8.4330797"
+         ry="0"
+         transform="scale(1,-1)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3149-4-6">
+      <rect
+         style="fill:#dcdcdc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect3151-0-0"
+         width="61"
+         height="20.5"
+         x="77.669281"
+         y="939.76917"
+         rx="8.4330797"
+         ry="0"
+         transform="scale(1,-1)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3149-4-3-2">
+      <rect
+         style="fill:#dcdcdc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect3151-0-2-4"
+         width="61"
+         height="20.5"
+         x="77.669281"
+         y="939.76917"
+         rx="8.4330797"
+         ry="0"
+         transform="scale(1,-1)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3149-4-3-3-4">
+      <rect
+         style="fill:#dcdcdc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect3151-0-2-1-0"
+         width="61"
+         height="20.5"
+         x="77.669281"
+         y="939.76917"
+         rx="8.4330797"
+         ry="0"
+         transform="scale(1,-1)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3149-4-3-89-2">
+      <rect
+         style="fill:#dcdcdc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect3151-0-2-2-0"
+         width="61"
+         height="20.5"
+         x="77.669281"
+         y="939.76917"
+         rx="8.4330797"
+         ry="0"
+         transform="scale(1,-1)" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.196618"
+     inkscape:cx="210.71803"
+     inkscape:cy="130.43534"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-802.36218)">
+    <g
+       id="g4229"
+       inkscape:export-filename="D:\Stuff\Documents\RTP\Progs\Decklink Video\Qt\Decklink\images\buttons\nextframe.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g3921-9-2"
+         transform="matrix(1,0,0,-1,63.835251,1890.6662)">
+        <rect
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:2.55999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4432-3-82-7-4-4-1"
+           width="58.439598"
+           height="38.439602"
+           x="151.00568"
+           y="-1015.3316"
+           rx="11.697204"
+           ry="9.2639523"
+           transform="scale(1,-1)" />
+        <rect
+           style="opacity:0.13699999;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="rect4432-3-82-7-4-17-8-6"
+           width="58.439598"
+           height="38.439602"
+           x="78.94928"
+           y="-958.98877"
+           rx="11.697204"
+           ry="9.2639523"
+           transform="matrix(1.0438128,0,0,-1.0666192,67.317408,-6.2642302)"
+           clip-path="url(#clipPath3149-4-3)" />
+      </g>
+      <g
+         transform="matrix(1,0,0,-1,0.8352471,1890.51)"
+         id="g4125-7">
+        <path
+           style="fill:#dcdcdc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 254.84711,995.95572 -13.47626,12.99988 c 0,0 0.003,-26.10348 0,-25.99973 z"
+           id="rect4490-2-8-9"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+        <rect
+           style="fill:#dcdcdc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="rect4499-1-4-9-5"
+           width="3"
+           height="26"
+           x="236.37085"
+           y="982.95557"
+           ry="0" />
+      </g>
+    </g>
+    <g
+       id="g4253"
+       inkscape:export-filename="D:\Stuff\Documents\RTP\Progs\Decklink Video\Qt\Decklink\images\buttons\play.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g3921-9"
+         transform="matrix(1,0,0,-1,-1.1647504,1890.6662)">
+        <rect
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:2.55999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4432-3-82-7-4-4"
+           width="58.439598"
+           height="38.439602"
+           x="151.00568"
+           y="-1015.3316"
+           rx="11.697204"
+           ry="9.2639523"
+           transform="scale(1,-1)" />
+        <rect
+           style="opacity:0.13699999;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="rect4432-3-82-7-4-17-8"
+           width="58.439598"
+           height="38.439602"
+           x="78.94928"
+           y="-958.98877"
+           rx="11.697204"
+           ry="9.2639523"
+           transform="matrix(1.0438128,0,0,-1.0666192,67.317408,-6.2642302)"
+           clip-path="url(#clipPath3149-4)" />
+      </g>
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect4490-6-3"
+         d="M 187.79906,894.55453 174.3228,907.5544 c 0,0 0.003,-26.10347 0,-25.99971 z"
+         style="fill:#dcdcdc;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    </g>
+    <g
+       id="g4289"
+       inkscape:export-filename="D:\Stuff\Documents\RTP\Progs\Decklink Video\Qt\Decklink\images\buttons\previousframe.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g3921-9-2-3"
+         transform="matrix(1,0,0,-1,-66.164751,1890.6662)">
+        <rect
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:2.55999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4432-3-82-7-4-4-1-8"
+           width="58.439598"
+           height="38.439602"
+           x="151.00568"
+           y="-1015.3316"
+           rx="11.697204"
+           ry="9.2639523"
+           transform="scale(1,-1)" />
+        <rect
+           style="opacity:0.13699999;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="rect4432-3-82-7-4-17-8-6-7"
+           width="58.439598"
+           height="38.439602"
+           x="78.94928"
+           y="-958.98877"
+           rx="11.697204"
+           ry="9.2639523"
+           transform="matrix(1.0438128,0,0,-1.0666192,67.317408,-6.2642302)"
+           clip-path="url(#clipPath3149-4-3-4)" />
+      </g>
+      <g
+         transform="matrix(-1,0,0,-1,357.28659,1890.51)"
+         id="g4125-1-9">
+        <path
+           style="fill:#dcdcdc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 254.84711,995.95572 -13.47626,12.99988 c 0,0 0.003,-26.10348 0,-25.99973 z"
+           id="rect4490-2-8-5-8"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+        <rect
+           style="fill:#dcdcdc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="rect4499-1-4-9-2-6"
+           width="3"
+           height="26"
+           x="236.37085"
+           y="982.95557"
+           ry="0" />
+      </g>
+    </g>
+    <g
+       id="g4245"
+       inkscape:export-filename="D:\Stuff\Documents\RTP\Progs\Decklink Video\Qt\Decklink\images\buttons\pause.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g3921-9-2-2"
+         transform="matrix(1,0,0,-1,-1.1647504,1845.6666)">
+        <rect
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:2.55999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4432-3-82-7-4-4-1-3"
+           width="58.439598"
+           height="38.439602"
+           x="151.00568"
+           y="-1015.3316"
+           rx="11.697204"
+           ry="9.2639523"
+           transform="scale(1,-1)" />
+        <rect
+           style="opacity:0.13699999;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="rect4432-3-82-7-4-17-8-6-3"
+           width="58.439598"
+           height="38.439602"
+           x="78.94928"
+           y="-958.98877"
+           rx="11.697204"
+           ry="9.2639523"
+           transform="matrix(1.0438128,0,0,-1.0666192,67.317408,-6.2642302)"
+           clip-path="url(#clipPath3149-4-3-3)" />
+      </g>
+      <g
+         transform="matrix(1,0,0,-1,-1.1647511,1800.6668)"
+         id="g4266-0">
+        <rect
+           style="fill:#dcdcdc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="rect4499-1-8-9"
+           width="5"
+           height="26"
+           x="171.89531"
+           y="938.112"
+           ry="0" />
+        <rect
+           style="fill:#dcdcdc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="rect4499-2-0"
+           width="5"
+           height="26"
+           x="183.55605"
+           y="938.112"
+           ry="0" />
+      </g>
+    </g>
+    <g
+       id="g4237"
+       inkscape:export-filename="D:\Stuff\Documents\RTP\Progs\Decklink Video\Qt\Decklink\images\buttons\eject.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g3921-9-2-79"
+         transform="matrix(1,0,0,-1,63.835251,1845.6666)">
+        <rect
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:2.55999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4432-3-82-7-4-4-1-5"
+           width="58.439598"
+           height="38.439602"
+           x="151.00568"
+           y="-1015.3316"
+           rx="11.697204"
+           ry="9.2639523"
+           transform="scale(1,-1)" />
+        <rect
+           style="opacity:0.13699999;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="rect4432-3-82-7-4-17-8-6-4"
+           width="58.439598"
+           height="38.439602"
+           x="78.94928"
+           y="-958.98877"
+           rx="11.697204"
+           ry="9.2639523"
+           transform="matrix(1.0438128,0,0,-1.0666192,67.317408,-6.2642302)"
+           clip-path="url(#clipPath3149-4-3-89)" />
+      </g>
+      <g
+         transform="translate(-1.548048,-101.40075)"
+         id="g4302-8">
+        <path
+           style="fill:#dcdcdc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 245.60913,941.71743 12.99985,13.47626 c 0,0 -26.10345,-0.003 -25.9997,0 z"
+           id="rect4490-2-8-4-9"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+        <rect
+           style="fill:#dcdcdc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="rect4499-1-4-9-9-3"
+           width="3"
+           height="26"
+           x="-960.19366"
+           y="232.60898"
+           ry="0"
+           transform="matrix(0,-1,1,0,0,0)" />
+      </g>
+    </g>
+    <path
+       style="fill:#dcdcdc;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 43.920374,957.21161 -15.345355,-12.10431 15.684095,-12.21107 -0.0078,7.1633 c 0,0 6.519331,-0.9099 10.388422,2.71018 3.86903,3.62009 3.846449,12.0326 3.846449,12.0326 0,0 -2.138845,-3.7383 -6.062459,-5.1149 -3.923578,-1.3765 -8.390867,-0.6536 -8.390867,-0.6536 l -0.111972,8.1778 z"
+       id="path15341"
+       sodipodi:nodetypes="ccccscscc"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g4311"
+       inkscape:export-filename="D:\Stuff\Documents\RTP\Progs\Decklink Video\Qt\Decklink\images\buttons\reverse.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g3921-9-2-793"
+         transform="matrix(1,0,0,-1,-131.16475,1890.6662)">
+        <rect
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:2.55999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4432-3-82-7-4-4-1-1"
+           width="58.439598"
+           height="38.439602"
+           x="151.00568"
+           y="-1015.3316"
+           rx="11.697204"
+           ry="9.2639523"
+           transform="scale(1,-1)" />
+        <rect
+           style="opacity:0.13699999;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="rect4432-3-82-7-4-17-8-6-9"
+           width="58.439598"
+           height="38.439602"
+           x="78.94928"
+           y="-958.98877"
+           rx="11.697204"
+           ry="9.2639523"
+           transform="matrix(1.0438128,0,0,-1.0666192,67.317408,-6.2642302)"
+           clip-path="url(#clipPath3149-4-3-42)" />
+      </g>
+      <g
+         transform="translate(4.2428468,-6.2282245e-5)"
+         id="g4826">
+        <path
+           style="fill:#dcdcdc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="M 43.81808,894.55426 57.29434,881.5545 c 0,0 -0.003,26.10336 0,25.99961 z"
+           id="rect4490-2-8-1-3-0"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+        <path
+           style="fill:#dcdcdc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="M 28.34182,894.55426 41.81808,881.5545 c 0,0 -0.003,26.10336 0,25.99961 z"
+           id="rect4490-2-8-1-3-0-6"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+      </g>
+    </g>
+    <g
+       id="g4221"
+       inkscape:export-filename="D:\Stuff\Documents\RTP\Progs\Decklink Video\Qt\Decklink\images\buttons\forward.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g3921-9-2-7"
+         transform="matrix(1,0,0,-1,128.83525,1890.6662)">
+        <rect
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:2.55999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4432-3-82-7-4-4-1-6"
+           width="58.439598"
+           height="38.439602"
+           x="151.00568"
+           y="-1015.3316"
+           rx="11.697204"
+           ry="9.2639523"
+           transform="scale(1,-1)" />
+        <rect
+           style="opacity:0.13699999;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="rect4432-3-82-7-4-17-8-6-1"
+           width="58.439598"
+           height="38.439602"
+           x="78.94928"
+           y="-958.98877"
+           rx="11.697204"
+           ry="9.2639523"
+           transform="matrix(1.0438128,0,0,-1.0666192,67.317408,-6.2642302)"
+           clip-path="url(#clipPath3149-4-3-8)" />
+      </g>
+      <g
+         transform="matrix(-1,0,0,1,353.87901,-6.2282245e-5)"
+         id="g4826-8">
+        <path
+           style="fill:#dcdcdc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="M 43.81808,894.55426 57.29434,881.5545 c 0,0 -0.003,26.10336 0,25.99961 z"
+           id="rect4490-2-8-1-3-0-4"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+        <path
+           style="fill:#dcdcdc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="M 28.34182,894.55426 41.81808,881.5545 c 0,0 -0.003,26.10336 0,25.99961 z"
+           id="rect4490-2-8-1-3-0-6-9"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+      </g>
+    </g>
+    <g
+       transform="matrix(1,0,0,-1,0,1890.6662)"
+       id="g4229-8"
+       inkscape:export-filename="D:\Stuff\Documents\RTP\Progs\Decklink Video\Qt\Decklink\images\buttons\nextframe_pressed.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g3921-9-2-6"
+         transform="matrix(1,0,0,-1,63.835251,1890.6662)">
+        <rect
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:2.55999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4432-3-82-7-4-4-1-50"
+           width="58.439598"
+           height="38.439602"
+           x="151.00568"
+           y="-1015.3316"
+           rx="11.697204"
+           ry="9.2639523"
+           transform="scale(1,-1)" />
+        <rect
+           style="opacity:0.13699999;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="rect4432-3-82-7-4-17-8-6-90"
+           width="58.439598"
+           height="38.439602"
+           x="78.94928"
+           y="-958.98877"
+           rx="11.697204"
+           ry="9.2639523"
+           transform="matrix(1.0438128,0,0,-1.0666192,67.317408,-6.2642302)"
+           clip-path="url(#clipPath3149-4-3-2)" />
+      </g>
+      <g
+         transform="matrix(1,0,0,-1,0.8352471,1890.51)"
+         id="g4125-7-0">
+        <path
+           style="fill:#dcdcdc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 254.84711,995.95572 -13.47626,12.99988 c 0,0 0.003,-26.10348 0,-25.99973 z"
+           id="rect4490-2-8-9-6"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+        <rect
+           style="fill:#dcdcdc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="rect4499-1-4-9-5-1"
+           width="3"
+           height="26"
+           x="236.37085"
+           y="982.95557"
+           ry="0" />
+      </g>
+    </g>
+    <g
+       transform="matrix(1,0,0,-1,0,1890.6662)"
+       id="g4253-3"
+       inkscape:export-filename="D:\Stuff\Documents\RTP\Progs\Decklink Video\Qt\Decklink\images\buttons\play_pressed.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g3921-9-8"
+         transform="matrix(1,0,0,-1,-1.1647504,1890.6662)">
+        <rect
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:2.55999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4432-3-82-7-4-4-9"
+           width="58.439598"
+           height="38.439602"
+           x="151.00568"
+           y="-1015.3316"
+           rx="11.697204"
+           ry="9.2639523"
+           transform="scale(1,-1)" />
+        <rect
+           style="opacity:0.13699999;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="rect4432-3-82-7-4-17-8-3"
+           width="58.439598"
+           height="38.439602"
+           x="78.94928"
+           y="-958.98877"
+           rx="11.697204"
+           ry="9.2639523"
+           transform="matrix(1.0438128,0,0,-1.0666192,67.317408,-6.2642302)"
+           clip-path="url(#clipPath3149-4-6)" />
+      </g>
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect4490-6-3-4"
+         d="M 187.79906,894.55453 174.3228,907.5544 c 0,0 0.003,-26.10347 0,-25.99971 z"
+         style="fill:#dcdcdc;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    </g>
+    <g
+       transform="matrix(1,0,0,-1,0,1890.6662)"
+       id="g4289-4"
+       inkscape:export-filename="D:\Stuff\Documents\RTP\Progs\Decklink Video\Qt\Decklink\images\buttons\previousframe_pressed.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g3921-9-2-3-6"
+         transform="matrix(1,0,0,-1,-66.164751,1890.6662)">
+        <rect
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:2.55999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4432-3-82-7-4-4-1-8-0"
+           width="58.439598"
+           height="38.439602"
+           x="151.00568"
+           y="-1015.3316"
+           rx="11.697204"
+           ry="9.2639523"
+           transform="scale(1,-1)" />
+        <rect
+           style="opacity:0.13699999;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="rect4432-3-82-7-4-17-8-6-7-6"
+           width="58.439598"
+           height="38.439602"
+           x="78.94928"
+           y="-958.98877"
+           rx="11.697204"
+           ry="9.2639523"
+           transform="matrix(1.0438128,0,0,-1.0666192,67.317408,-6.2642302)"
+           clip-path="url(#clipPath3149-4-3-4-2)" />
+      </g>
+      <g
+         transform="matrix(-1,0,0,-1,357.28659,1890.51)"
+         id="g4125-1-9-6">
+        <path
+           style="fill:#dcdcdc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 254.84711,995.95572 -13.47626,12.99988 c 0,0 0.003,-26.10348 0,-25.99973 z"
+           id="rect4490-2-8-5-8-1"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+        <rect
+           style="fill:#dcdcdc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="rect4499-1-4-9-2-6-8"
+           width="3"
+           height="26"
+           x="236.37085"
+           y="982.95557"
+           ry="0" />
+      </g>
+    </g>
+    <g
+       transform="matrix(1,0,0,-1,0,1890.6662)"
+       id="g4311-4"
+       inkscape:export-filename="D:\Stuff\Documents\RTP\Progs\Decklink Video\Qt\Decklink\images\buttons\reverse_pressed.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g3921-9-2-793-9"
+         transform="matrix(1,0,0,-1,-131.16475,1890.6662)">
+        <rect
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:2.55999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4432-3-82-7-4-4-1-1-6"
+           width="58.439598"
+           height="38.439602"
+           x="151.00568"
+           y="-1015.3316"
+           rx="11.697204"
+           ry="9.2639523"
+           transform="scale(1,-1)" />
+        <rect
+           style="opacity:0.13699999;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="rect4432-3-82-7-4-17-8-6-9-3"
+           width="58.439598"
+           height="38.439602"
+           x="78.94928"
+           y="-958.98877"
+           rx="11.697204"
+           ry="9.2639523"
+           transform="matrix(1.0438128,0,0,-1.0666192,67.317408,-6.2642302)"
+           clip-path="url(#clipPath3149-4-3-42-5)" />
+      </g>
+      <g
+         transform="translate(4.2428468,-6.2282245e-5)"
+         id="g4826-7">
+        <path
+           style="fill:#dcdcdc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="M 43.81808,894.55426 57.29434,881.5545 c 0,0 -0.003,26.10336 0,25.99961 z"
+           id="rect4490-2-8-1-3-0-8"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+        <path
+           style="fill:#dcdcdc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="M 28.34182,894.55426 41.81808,881.5545 c 0,0 -0.003,26.10336 0,25.99961 z"
+           id="rect4490-2-8-1-3-0-6-8"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+      </g>
+    </g>
+    <g
+       transform="matrix(1,0,0,-1,0,1890.6662)"
+       id="g4221-2"
+       inkscape:export-filename="D:\Stuff\Documents\RTP\Progs\Decklink Video\Qt\Decklink\images\buttons\forward_pressed.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g3921-9-2-7-9"
+         transform="matrix(1,0,0,-1,128.83525,1890.6662)">
+        <rect
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:2.55999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4432-3-82-7-4-4-1-6-1"
+           width="58.439598"
+           height="38.439602"
+           x="151.00568"
+           y="-1015.3316"
+           rx="11.697204"
+           ry="9.2639523"
+           transform="scale(1,-1)" />
+        <rect
+           style="opacity:0.13699999;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="rect4432-3-82-7-4-17-8-6-1-3"
+           width="58.439598"
+           height="38.439602"
+           x="78.94928"
+           y="-958.98877"
+           rx="11.697204"
+           ry="9.2639523"
+           transform="matrix(1.0438128,0,0,-1.0666192,67.317408,-6.2642302)"
+           clip-path="url(#clipPath3149-4-3-8-8)" />
+      </g>
+      <g
+         transform="matrix(-1,0,0,1,353.87901,-6.2282245e-5)"
+         id="g4826-8-5">
+        <path
+           style="fill:#dcdcdc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="M 43.81808,894.55426 57.29434,881.5545 c 0,0 -0.003,26.10336 0,25.99961 z"
+           id="rect4490-2-8-1-3-0-4-9"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+        <path
+           style="fill:#dcdcdc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="M 28.34182,894.55426 41.81808,881.5545 c 0,0 -0.003,26.10336 0,25.99961 z"
+           id="rect4490-2-8-1-3-0-6-9-8"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+      </g>
+    </g>
+    <g
+       transform="matrix(1,0,0,-1,0,1800.667)"
+       id="g4245-7"
+       inkscape:export-filename="D:\Stuff\Documents\RTP\Progs\Decklink Video\Qt\Decklink\images\buttons\pause_pressed.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g3921-9-2-2-6"
+         transform="matrix(1,0,0,-1,-1.1647504,1845.6666)">
+        <rect
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:2.55999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4432-3-82-7-4-4-1-3-3"
+           width="58.439598"
+           height="38.439602"
+           x="151.00568"
+           y="-1015.3316"
+           rx="11.697204"
+           ry="9.2639523"
+           transform="scale(1,-1)" />
+        <rect
+           style="opacity:0.13699999;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="rect4432-3-82-7-4-17-8-6-3-6"
+           width="58.439598"
+           height="38.439602"
+           x="78.94928"
+           y="-958.98877"
+           rx="11.697204"
+           ry="9.2639523"
+           transform="matrix(1.0438128,0,0,-1.0666192,67.317408,-6.2642302)"
+           clip-path="url(#clipPath3149-4-3-3-4)" />
+      </g>
+      <g
+         transform="matrix(1,0,0,-1,-1.1647511,1800.6668)"
+         id="g4266-0-1">
+        <rect
+           style="fill:#dcdcdc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="rect4499-1-8-9-5"
+           width="5"
+           height="26"
+           x="171.89531"
+           y="938.112"
+           ry="0" />
+        <rect
+           style="fill:#dcdcdc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="rect4499-2-0-4"
+           width="5"
+           height="26"
+           x="183.55605"
+           y="938.112"
+           ry="0" />
+      </g>
+    </g>
+    <g
+       id="g4670"
+       inkscape:export-filename="D:\Stuff\Documents\RTP\Progs\Decklink Video\Qt\Decklink\images\buttons\eject_pressed.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g3921-9-2-79-7"
+         transform="translate(63.835251,-44.999606)">
+        <rect
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:2.55999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4432-3-82-7-4-4-1-5-3"
+           width="58.439598"
+           height="38.439602"
+           x="151.00568"
+           y="-1015.3316"
+           rx="11.697204"
+           ry="9.2639523"
+           transform="scale(1,-1)" />
+        <rect
+           style="opacity:0.13699999;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="rect4432-3-82-7-4-17-8-6-4-7"
+           width="58.439598"
+           height="38.439602"
+           x="78.94928"
+           y="-958.98877"
+           rx="11.697204"
+           ry="9.2639523"
+           transform="matrix(1.0438128,0,0,-1.0666192,67.317408,-6.2642302)"
+           clip-path="url(#clipPath3149-4-3-89-2)" />
+      </g>
+      <g
+         transform="translate(-1.548048,0.15666)"
+         id="g4302-8-2">
+        <path
+           style="fill:#dcdcdc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 245.60913,941.71743 12.99985,13.47626 c 0,0 -26.10345,-0.003 -25.9997,0 z"
+           id="rect4490-2-8-4-9-6"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+        <rect
+           style="fill:#dcdcdc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="rect4499-1-4-9-9-3-0"
+           width="3"
+           height="26"
+           x="-960.19366"
+           y="232.60898"
+           ry="0"
+           transform="matrix(0,-1,1,0,0,0)" />
+      </g>
+    </g>
+  </g>
+</svg>

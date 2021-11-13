@@ -1,0 +1,3 @@
+[submodule "powervs-core"]
+	path = powervs-core
+	url = git@github.com:alfredosilvestre/powervs-core.git

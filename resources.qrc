@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/checkbox-off.png</file>
+        <file>images/checkbox-on.png</file>
+        <file>images/brush.jpg</file>
+        <file>images/channels.png</file>
+        <file>images/icon.ico</file>
+        <file>images/splash.jpg</file>
+        <file>images/buttons/forward.png</file>
+        <file>images/buttons/forward_pressed.png</file>
+        <file>images/buttons/nextframe.png</file>
+        <file>images/buttons/nextframe_pressed.png</file>
+        <file>images/buttons/pause.png</file>
+        <file>images/buttons/pause_pressed.png</file>
+        <file>images/buttons/play.png</file>
+        <file>images/buttons/play_pressed.png</file>
+        <file>images/buttons/previousframe.png</file>
+        <file>images/buttons/previousframe_pressed.png</file>
+        <file>images/buttons/reverse.png</file>
+        <file>images/buttons/reverse_pressed.png</file>
+        <file>images/buttons/eject.png</file>
+        <file>images/buttons/eject_pressed.png</file>
+    </qresource>
+</RCC>

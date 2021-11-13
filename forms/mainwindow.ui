@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="windowModality">
+   <enum>Qt::ApplicationModal</enum>
+  </property>
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1281</width>
+    <height>771</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>PowerVS</string>
+  </property>
+  <property name="windowIcon">
+   <iconset resource="../resources.qrc">
+    <normaloff>:/images/icon.ico</normaloff>:/images/icon.ico</iconset>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">QWidget#centralwidget
+{
+	background: url(:/images/brush.jpg);
+}
+QPushButton#pushButtonFillKeyTake,
+QPushButton#pushButtonFillKeyDrop
+{
+	background-color: lightGrey;
+	border-style: outset;
+	border-width: 10px;
+	border-color: grey;
+	border-radius: 20px;
+}
+QPushButton#pushButtonFillKeyTake:pressed,
+QPushButton#pushButtonFillKeyDrop:pressed
+{
+	border-style: inset;
+}</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="ChannelGUI" name="channelA">
+    <property name="geometry">
+     <rect>
+      <x>510</x>
+      <y>10</y>
+      <width>761</width>
+      <height>371</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="ChannelGUI" name="channelB">
+    <property name="geometry">
+     <rect>
+      <x>510</x>
+      <y>390</y>
+      <width>761</width>
+      <height>371</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="PlayListGUI" name="playListB">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>390</y>
+      <width>481</width>
+      <height>371</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="PlayListGUI" name="playListA">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>10</y>
+      <width>481</width>
+      <height>371</height>
+     </rect>
+    </property>
+    <property name="frameShape">
+     <enum>QFrame::StyledPanel</enum>
+    </property>
+    <property name="frameShadow">
+     <enum>QFrame::Raised</enum>
+    </property>
+   </widget>
+   <widget class="RecorderGUI" name="recorderA">
+    <property name="geometry">
+     <rect>
+      <x>510</x>
+      <y>10</y>
+      <width>761</width>
+      <height>371</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="RecorderGUI" name="recorderB">
+    <property name="geometry">
+     <rect>
+      <x>510</x>
+      <y>390</y>
+      <width>761</width>
+      <height>371</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButtonFillKeyTake">
+    <property name="geometry">
+     <rect>
+      <x>620</x>
+      <y>0</y>
+      <width>241</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>26</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="text">
+     <string>TAKE A + B</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButtonFillKeyDrop">
+    <property name="geometry">
+     <rect>
+      <x>870</x>
+      <y>0</y>
+      <width>251</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>26</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="text">
+     <string>DROP A + B</string>
+    </property>
+   </widget>
+  </widget>
+ </widget>
+ <customwidgets>
+  <customwidget>
+   <class>PlayListGUI</class>
+   <extends>QFrame</extends>
+   <header>playlist/playlistgui.h</header>
+   <container>1</container>
+  </customwidget>
+  <customwidget>
+   <class>ChannelGUI</class>
+   <extends>QFrame</extends>
+   <header>channel/channelgui.h</header>
+   <container>1</container>
+  </customwidget>
+  <customwidget>
+   <class>RecorderGUI</class>
+   <extends>QFrame</extends>
+   <header location="global">recordergui.h</header>
+   <container>1</container>
+  </customwidget>
+ </customwidgets>
+ <resources>
+  <include location="../resources.qrc"/>
+ </resources>
+ <connections/>
+</ui>
