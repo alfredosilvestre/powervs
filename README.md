@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="docs/logo.png" alt="Project logo"></a>
+ <img width=821px height=132px src="docs/logo.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">PowerVS</h3>
@@ -22,7 +22,7 @@
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
-## � About <a name="about"></a>
+## 🧐 About <a name="about"></a>
 The year was 2011, the broadcast company where I worked at needed to improve the production workflow, which at the time consisted in ingesting and recording hundreds of betacam tapes every week.
 
 I took on the challenge to implement a playout server based on the then recent Blackmagic cards in order to speed up the process and taking advantage of the fact that everything was handled by digital files after the first ingest from the camera source.
@@ -40,7 +40,7 @@ This software has been running since 2012 with little to no bugs or issues. Deve
 I spent much of my off time developing the software and I hope it will prove useful to others even if only for academic purposes :slightly_smiling_face:
 
 
-## � Getting Started <a name="getting_started"></a>
+## 🏁 Getting Started <a name="getting_started"></a>
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
 ### Prerequisites
@@ -89,14 +89,14 @@ This repository has the functionalities for the GUI of PowerVS.
 You just need to install [Microsoft Visual C++ 2010 Redistributable Package](https://download.microsoft.com/download/1/6/5/165255E7-1014-4D0A-B094-B6A430A6BFFC/vcredist_x86.exe)
 You should also copy the Qt, ffmpeg, portaudio and log4cxx shared libraries to the same location (check the [releases](https://github.com/alfredosilvestre/powervs/releases) for examples).
 
-## ⛏� Built Using <a name="built_using"></a>
+## ⛏️ Built Using <a name="built_using"></a>
 - [Qt 4.8](https://doc.qt.io/archives/qt-4.8/index.html) - Application development framework
 - [FFmpeg](https://www.ffmpeg.org/) - Video/Audio encoding/decoding framework
 - [Blackmagic](https://www.blackmagicdesign.com/) - Decklink SDK
 - [PortAudio](https://github.com/PortAudio/portaudio/) - Real-time audio I/O library
 - [Log4cxx](https://logging.apache.org/log4cxx/) - Logging framework
 
-## ✍� Authors <a name="authors"></a>
+## ✍️ Authors <a name="authors"></a>
 - [@alfredosilvestre](https://github.com/alfredosilvestre)
 
 
