@@ -60,16 +60,23 @@ Blackmagic card, tested with:
 If you have a licensed copy of Visual Studio 2010, install it and then jump to the [Qt](#Qt) section
 
 #### Compiler
- 1. Install [Visual C++ 2010 Express](https://archive.org/download/vs-2010-express-1/VS2010Express1.iso)
- 2. Uninstall any Visual C++ 2010 runtime/redistributable newer or equal to 10.0.30319 (Otherwise, it will cause a failure when installing Windows SDK)
- 3. Install [Windows SDK 7.1](https://www.microsoft.com/en-us/download/details.aspx?id=8442) (get the GRMSDKX_EN_DVD.iso and make sure to include headers, libraries, tools, compilers and the debugging tools). Make sure .NET framework 4.x is installed, installation of the WinSDK will not allow you to select compilers otherwise.
+1. Install [Visual C++ 2010 Express](https://archive.org/download/vs-2010-express-1/VS2010Express1.iso)
+2. Uninstall any Visual C++ 2010 runtime/redistributable newer or equal to 10.0.30319 (Otherwise, it will cause a failure when installing Windows SDK)
+3. Install [Windows SDK 7.1](https://www.microsoft.com/en-us/download/details.aspx?id=8442) (get the GRMSDKX_EN_DVD.iso and make sure to include headers, libraries, tools, compilers and the debugging tools). Make sure .NET framework 4.x is installed, installation of the WinSDK will not allow you to select compilers otherwise.
 	- On Windows 10, there is an issue with the .NET framework, so you need to execute the setup from "Setup\SDKSetup.exe" to install the compilers and you may need to install the debugging tools after setup finishes from "Setup\WinSDKDebuggingTools\dbg_x86.exe"
- 4. Install [VS 2010 SP1](https://archive.org/download/vs-2010-sp-1dvd-1/VS2010SP1dvd1.iso) for the missing headers (this requires VS Express)
- 5. Install [MSVC 2010 SP1 Compiler Update](https://www.microsoft.com/en-au/download/details.aspx?id=4422) for the compiler fixes.
+4. Install [VS 2010 SP1](https://archive.org/download/vs-2010-sp-1dvd-1/VS2010SP1dvd1.iso) for the missing headers (this requires VS Express)
+5. Install [MSVC 2010 SP1 Compiler Update](https://www.microsoft.com/en-au/download/details.aspx?id=4422) for the compiler fixes.
 
 #### Qt <a name="Qt"></a>
 1. Install [Qt 4.8](https://download.qt.io/archive/qt/4.8/4.8.7/qt-opensource-windows-x86-vs2010-4.8.7.exe)
 2. Install [Qt Creator](https://download.qt.io/official_releases/qtcreator/4.15/4.15.0/qt-creator-opensource-windows-x86_64-4.15.0.exe)
+
+#### PowerVS Core submodule
+If your git client does not download the contents of the PowerVS Core submodule, issue the following command:
+
+```
+git submodule update --init --recursive
+```
 
 Open the [PowerVS.pro](https://github.com/alfredosilvestre/powervs/tree/master/PowerVS.pro) file in Qt Creator and build using the standard process.
 
