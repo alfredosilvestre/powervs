@@ -84,7 +84,47 @@ Open the [PowerVS.pro](https://github.com/alfredosilvestre/powervs/tree/master/P
 Sadly, no automated tests were created yet since you need a physical card to test all the functionalities, usually you should have a folder with several test video files and run them through the GUI.
 
 ## 🎈 Usage <a name="usage"></a>
-This repository has the functionalities for the GUI of PowerVS.
+PowerVS allows the playout and ingest of different file formats and supports two SDI/HDMI video channels.
+The interface has two independent playlists, one for each channel.
+There is also a bridge mode that will clone one input to the other channel allowing the recording of two files for the same input source useful for example if you need to record the source and add an overlay on the other file.
+
+### Caracteristics
+- Supported resolutions: 625/25 PAL, 720p50, 720p59.94, 1080i50 e 1080i59.94 with software Up/Down conversion
+- Video output: SDI 10bit 4:2:2
+- Audio output: Embedded SDI audio 24 bit 48 kHz Stereo, up to 8 channels
+- Video reference: Blackburst or Tri-sync
+- Supported file formats for playout: MPG, AVI, MP4, MOV, OGG, MKV, MXF
+- Tested playout codecs: IMX 30 e 50 Mbits, DV, P2, h264, Theora, MPEG-2, MPEG-4, XDCAM HD, XDCAM EX
+
+### Interface functionalities
+- Add/remove and organize clips in the playlists
+- Save and load playlists
+- Chain playlist items (block play supported by selecting items to block chain)
+- Loop playlist or clip
+- Clip time visualization and timecode if available
+- Audio visualization up to 8 channels (2 at a time)
+- PAL aspect ratio 4x3 and 16x9
+- Fast-forward and slow motion option
+- Send embedded VITC and VANC on SDI cards (SD resolution only)
+- Fill+Key option to reproduce two simultaneous channels
+- Option to add a CG item overlay on the video, for example a "bug" logo
+
+### Basic shortcuts
+- Ctrl+Shift+F12 -> Access settings menu
+- F1 -> Take on channel A
+- F2 -> Drop on channel A
+- F3 -> Recue on channel A
+- F4 -> Activate/deactivate loop on channel A
+- F5 -> Activate/deactivate chain on playlist A
+- F6 -> Activate/deactivate loop on playlist A (chain must be activated)
+- F7 -> Activate/deactivate chain on playlist B
+- F8 -> Activate/deactivate loop on playlist B (chain must be activated)
+- F9 -> Take on channel B
+- F10 -> Drop on channel B
+- F11 -> Recue on channel B
+- F12 -> Activate/deactivate loop on channel B
+- \+ -> Take fill+key
+- \- -> Drop fill+key
 
 ### Available Defines
 
