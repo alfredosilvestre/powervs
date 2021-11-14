@@ -126,6 +126,11 @@ There is also a bridge mode that will clone one input to the other channel allow
 - \+ -> Take fill+key
 - \- -> Drop fill+key
 
+## :thought_balloon: Development <a name="deployment"></a>
+Check below an overview of the class relationships
+
+<img width=1103px height=399px src="docs/overview.png" alt="Overview"></a>
+
 ### Available Defines
 
 * DECKLINK - Enables Decklink code
