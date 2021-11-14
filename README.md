@@ -16,6 +16,7 @@
 - [Getting Started](#getting_started)
 - [Running the tests](#tests)
 - [Usage](#usage)
+- [Development](#development)
 - [Deployment](#deployment)
 - [Built Using](#built_using)
 - [TODO](docs/TODO.md)
@@ -126,7 +127,7 @@ There is also a bridge mode that will clone one input to the other channel allow
 - \+ -> Take fill+key
 - \- -> Drop fill+key
 
-## :thought_balloon: Development <a name="deployment"></a>
+## :thought_balloon: Development <a name="development"></a>
 Check below an overview of the class relationships
 
 <img width=1103px height=399px src="docs/overview.png" alt="Overview"></a>
